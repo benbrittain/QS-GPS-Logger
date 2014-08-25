@@ -37,7 +37,7 @@ key you'll need to have android explicitly trust your key.
 2. cd qs-gps
 3. ant build
 4. adb push bin/qs-gps-logger /sdcard
-5+. install on phone
+5. install on phone
 
 ## Run Server
 0. modify config/config.json
